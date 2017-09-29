@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="714" height="92" baseProfile="basic">
+<svg xmlns="http://www.w3.org/2000/svg" width="714" height="92">
   <defs>
     <style>
       .cls-1 { fill: #90c; } .cls-2 { font-size: 36px; fill: #fff; text-anchor: middle; font-family: &quot;Helvetica Neue&quot;; font-weight: 700; }
     </style>
   </defs>
-  <path d="M0 0h700v90H0z" class="cls-1"/>
-  <text id="BECOME_A_PATRON" x="350.578" y="57.891" data-name="BECOME A PATRON" class="cls-2">
-    <tspan x="350.578">BECOME A PATRON</tspan>
+  <path d="M0 0h714v92H0z" class="cls-1"/>
+  <text id="BECOME_A_PATRON" data-name="BECOME A PATRON" class="cls-2" transform="matrix(1.02 0 0 1.022 357.59 59.177)">
+    <tspan x="0">BECOME A PATRON</tspan>
   </text>
 </svg>
