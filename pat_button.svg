@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="90">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="90" baseProfile="basic">
   <defs>
     <style>
       .cls-1 { fill: #90c; } .cls-2 { font-size: 36px; fill: #fff; text-anchor: middle; font-family: &quot;Helvetica Neue&quot;; font-weight: 700; }
