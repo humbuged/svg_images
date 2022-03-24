@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="714" height="92">
   <defs>
     <style>
-      .cls-1 { fill: #90c; } .cls-2 { font-size: 36px; fill: #fff; text-anchor: middle; font-family: &quot;Helvetica Neue&quot;; font-weight: 700; }
+      .cls-1 { fill: #90c; } .cls-2 { font-size: 36px; fill: #fff; text-anchor: middle; font-family: &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-weight: 700; }
     </style>
   </defs>
   <path d="M0 0h714v92H0z" class="cls-1"/>
