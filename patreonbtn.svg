@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="176" height="35">
-  <rect width="176" height="35" rx="17.5" ry="17.5" style="fill:#ff424d"/>
-  <text data-name="Become a Patron" transform="matrix(.341 0 0 .341 44.46 22.4)" style="fill:#fff;font-size:41.086px;font-family:&quot;Helvetica Neue&quot;, Helvetica, sans-serif;font-weight:500">Become a Patron</text>
-  <path data-name="patreon logo" d="M21 10h2.71v15H21V10Zm9.58.1a5.56 5.56 0 1 1-5.42 5.55 5.49 5.49 0 0 1 5.42-5.56Z" style="fill-rule:evenodd;fill:#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="161.549" height="34.996" viewBox="0 0 457 99">
+  <rect width="457" height="99" rx="49.5" ry="49.5" style="fill:#ff424d"/>
+  <text data-name="Be a Patron" style="fill:#fff;font-size:41.086px;font-family:&quot;Helvetica Neue&quot;;font-weight:500" transform="matrix(.968 0 0 .964 154.314 63.362)">Be a Patron</text>
+  <path d="M133 37.724c-.009-6.255-4.91-11.381-10.66-13.231-7.141-2.3-16.559-1.964-23.378 1.234C90.7 29.6 88.1 38.094 88.006 46.562c-.079 6.963.62 25.3 11.026 25.432 7.732.1 8.883-9.806 12.461-14.575 2.546-3.393 5.824-4.352 9.858-5.344 6.934-1.707 11.66-7.146 11.649-14.351Z" style="fill-rule:evenodd;fill:#fff"/>
 </svg>
